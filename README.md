@@ -2,6 +2,9 @@
 
 A prototype feature for Dialpad AI that automatically generates standup summaries by aggregating data from various work tools and platforms.
 
+## Demo
+https://youtu.be/E1iSET4lb50
+
 ## Overview
 
 This prototype demonstrates an AI-powered standup assistant that integrates with common workplace tools to automatically generate comprehensive standup summaries. Instead of manually collecting and writing standup updates, the assistant pulls data from multiple sources and uses AI to create meaningful summaries.

@@ -14,11 +14,11 @@ This prototype demonstrates an AI-powered standup assistant that integrates with
 
 ## Features
 
-- 🤖 AI-powered standup summary generation
-- 📊 Multi-source data aggregation
-- 💬 Chat-like interface matching Dialpad's design
-- 🔄 Real-time updates
-- 📝 Structured summaries with:
+- AI-powered standup summary generation
+- Multi-source data aggregation
+- Chat-like interface matching Dialpad's design
+- Real-time updates
+- Structured summaries with:
   - Completed tasks
   - Work in progress
   - Blockers

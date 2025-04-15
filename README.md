@@ -3,7 +3,7 @@
 A prototype feature for Dialpad AI that automatically generates standup summaries by aggregating data from various work tools and platforms.
 
 ## Demo
-https://youtu.be/E1iSET4lb50
+Demo link: https://youtu.be/E1iSET4lb50
 
 ## Overview
 
